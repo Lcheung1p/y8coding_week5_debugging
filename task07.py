@@ -7,5 +7,7 @@ if pocket_money x 52 > TOY_CAR:
 
 ### What was wrong ?
 ### DISCUSS HERE:
-###
+### shouldnt be x should be a times sign
 ### Was this a... syntax, logical or runtime error?
+
+###syntax error

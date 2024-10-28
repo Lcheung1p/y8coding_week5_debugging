@@ -11,5 +11,7 @@ else:
 
 ### What was wrong ?
 ### DISCUSS HERE:
-###
+### They forgot to add an "int"
 ### Was this a... syntax, logical or runtime error?
+
+##syntaxerror

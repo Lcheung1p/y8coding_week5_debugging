@@ -10,5 +10,7 @@ if num1 > num2 and num2 > num1:
 
 ### What was wrong ?
 ### DISCUSS HERE:
-###
+### impossible for the conditions to work 
 ### Was this a... syntax, logical or runtime error?
+
+#logical
