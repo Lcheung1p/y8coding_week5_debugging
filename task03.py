@@ -6,5 +6,7 @@ else:
 
 ### What was wrong ?
 ### DISCUSS HERE:
-###
+### an indentation error
 ### Was this a... syntax, logical or runtime error?
+
+# this was syntaxError

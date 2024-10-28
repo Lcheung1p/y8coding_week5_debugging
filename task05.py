@@ -7,5 +7,7 @@ print("So, aside from", var, "and", var, "Is there anywhere else you've lived?")
 
 ### What was wrong ?
 ### DISCUSS HERE:
-###
+### replace whats inside the prints into the inputs
 ### Was this a... syntax, logical or runtime error?
+
+#logical error
